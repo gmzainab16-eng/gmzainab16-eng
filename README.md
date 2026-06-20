@@ -25,9 +25,9 @@ I'm a fresh graduate passionate about turning raw data into interactive dashboar
 
 ## 📫 Let's Connect!
 
-- **Email:** [gmzainab16@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/zainab-altaf-56bba6366/]
-- **GitHub:** [github.com/gmzainab16-eng](https://github.com/gmzainab16-eng)
+- **Email:** gmzainab16@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/zainab-altaf-56bba6366/
+- **GitHub:** github.com/gmzainab16-eng (https://github.com/gmzainab16-eng)
 
 ---
 
