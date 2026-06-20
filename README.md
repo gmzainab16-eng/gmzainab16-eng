@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Zainab Altaf
 
-<!--
-**gmzainab16-eng/gmzainab16-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | R Shiny Developer
 
-Here are some ideas to get you started:
+I'm a fresh graduate passionate about turning raw data into interactive dashboards that help people make better decisions. I love finding stories in data and presenting them in clear, visual ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 My Technical Skills
+
+- **Languages:** R, SQL, Python (basic)
+- **Visualization:** Shiny, ggplot2, plotly, leaflet
+- **Data Analysis:** Tidyverse, dplyr, data.table
+- **Dashboard Development:** R Shiny, shinydashboard, bslib
+- **Tools:** Git, GitHub, RStudio, Excel
+- **Other:** Data cleaning, web scraping, statistical analysis
+
+---
+
+## 📊 My Projects
+
+*Coming soon! I'm currently uploading my R Shiny projects here.*
+
+---
+
+## 📫 Let's Connect!
+
+- **Email:** [your email here]
+- **LinkedIn:** [your LinkedIn link]
+- **GitHub:** [github.com/gmzainab16-eng](https://github.com/gmzainab16-eng)
+
+---
+
+*🌱 I'm looking for freelance opportunities to apply my data analysis skills!*
